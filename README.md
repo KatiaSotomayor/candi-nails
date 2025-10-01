@@ -1,6 +1,6 @@
 💅 Candi Nails
 
-Un proyecto web en **HTML y CSS** diseñado de manera freelance en Spiral_Tech para un emprendimiento de uñas.
+Un proyecto web en **HTML y CSS** desarrollado para un emprendimiento de uñas.
 La página busca transmitir estética, elegancia y profesionalismo, mostrando los servicios ofrecidos, imágenes de trabajos y datos de contacto.
 
 
@@ -33,6 +33,4 @@ Cómo usar el proyecto
 
 Creación
 📧katiasotomayor042@gmail.com
-📧spiraltechnologyinformation@gmail.com
-📱 IG @spiral_tech_
 
